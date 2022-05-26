@@ -1,1 +1,1 @@
-Do not push filesending in .el .elc .login .eshrc
+Don't push files containing ~
